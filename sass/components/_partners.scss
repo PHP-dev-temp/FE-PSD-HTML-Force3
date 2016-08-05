@@ -1,0 +1,16 @@
+.partners{
+  background-image: url("../images/background.png");
+  background-repeat: repeat-x;
+  height: 189px;
+
+  &-active{
+    display: block;
+    text-align: center;
+
+    &-logo{
+      display: inline-block;
+      vertical-align: middle;
+      margin: 31px 47px 0 45px;
+    }
+  }
+}

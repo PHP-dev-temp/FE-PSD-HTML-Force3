@@ -1,0 +1,26 @@
+{
+  "name": "force3",
+  "description": "Test za mockup koji je dobila Maja",
+  "version": "0.0.0",
+  "authors": [
+    "Toni Teofilovic <toniteof@gmail.com>"
+  ],
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "3.*",
+    "Font-Awesome": "4.*",
+    "jquery": "^2.2.1",
+    "unslider": "^2.0.3"
+  }
+}
